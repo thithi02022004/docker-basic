@@ -1,0 +1,5 @@
+Run with terminal
+
+step 1: docker build -t hello-captain .
+
+step 2: docker run --rm hello-captain
